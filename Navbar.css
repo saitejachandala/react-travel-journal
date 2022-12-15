@@ -1,0 +1,15 @@
+.top-nav-content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #f33a6a;
+}
+
+.globe {
+  color: white;
+  padding: 5px;
+}
+
+.title-logo {
+  color: white;
+}
